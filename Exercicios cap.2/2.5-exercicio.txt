@@ -1,0 +1,10 @@
+...
+Compare a estrutura híbrida com arrays e listas encadeadas.
+É mais lento ou mais rápido fazer inserções e eliminações nesse caso?
+
+---> Nesse caso, suponho que seja mais lento fazer inserções, considerando que teria que procurar a array dentro da lista para depois fazer inserção.
+mais rapido que uma array, e mesmo tempo que uma lista.
+---> Para buscas, creio que seja mais rápido do que listas encadeadas, considerando que em uma lista a busca é por todos os nomes, enquanto na híbrida buscaria a letra, e depois o nome.
+     Mais lenta que arrays, mais rapidas que listas
+
+--> Mais lenta, em buscas, que arrays, e mais rápidas, em geral, do que listas.

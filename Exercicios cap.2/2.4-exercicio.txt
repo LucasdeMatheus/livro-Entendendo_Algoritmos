@@ -1,0 +1,11 @@
+As pessoas se incrivem no Facebook com muita frequência também.
+Suponha que você decida usar um array para armazenar a lista de usuários.
+
+Quais as desvantagens de um array em relação às inserções?
+
+Em particular, imagine que você está usando a pesquisa binária para buscar os logins.
+O que acontece quando você adiciona novos usuários em um array?
+
+--> inserções sempre adicionará um item ao final dele, esse procedimento é muito lento em um array.
+Para que a pesquisa binária funcione, o array tem que estar ordenado, ou seja,
+a cada registro feito, teriam que ordenar toda array.
