@@ -1,0 +1,11 @@
+Suponha que eu forneça uma pilha de chamada como esta:
+
+    [   sauda2    ]
+    [nome:][Maggie]
+    [    sauda    ]
+    [nome:][Maggie]
+
+Quais informações você pode retirar baseando-se apenas nesta pilha de chamada?
+--> [sauda] e [sauda2] é uma pilha de chamada, onde [sauda2] é chamada pela [sauda]
+
+
