@@ -1,0 +1,6 @@
+Você se lembra da pesquisa binária do Capitulo 1? 
+Ela também é um algoritmo do tipo dividir para conquistar.
+Você consegue determinar o caaso-base e o caso recursivo para a pesquisa binária?
+
+--> no caso-base é achar o que a pesquisa procura
+--> no recursivo é partir a array no meio para achar mais rápido
