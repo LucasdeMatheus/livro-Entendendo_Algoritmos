@@ -1,4 +1,4 @@
-# Escreva uma função recursiva que conte o n´mero de itens em uma lista
+# Escreva uma função recursiva que conte o numero de itens em uma lista
 
 def counter(arr):
     if arr == []: 
