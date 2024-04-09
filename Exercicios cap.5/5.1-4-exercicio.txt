@@ -1,0 +1,13 @@
+Quais destas funções hash são consistentes?
+
+1- f(x) = 1 --> retorna "1" para qualquer entrada
+    --> consistente
+
+2- f(x) = rand() --> retorna um número aleatório a cada execução.
+    --> inconsistente
+
+3- f(x) = proximo_espaco_vazio() --> retorna o índice do proximo espaço livre da tabela hash.
+    --> inconsistente
+
+4- f(x) = len(x) --> usa o comprimento da string como índice.
+    --> consistente
