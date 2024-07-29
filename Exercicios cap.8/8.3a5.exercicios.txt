@@ -1,0 +1,10 @@
+para cada um desses algoritimos, diga se ele é um algoritimo guloso ou não.
+
+8.3 Quicksort
+não
+
+8.4 Pesquisa em largura
+não
+
+8.5 Algoritmo de Dijkstra
+sim

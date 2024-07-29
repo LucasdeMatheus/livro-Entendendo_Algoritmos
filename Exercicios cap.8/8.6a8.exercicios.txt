@@ -1,0 +1,13 @@
+8.6 Um carteiro deve entregar correpondências para vinte casas. Ele deve encontrar a rota mais curta 
+que passe por todas as vinte casas. Esse é um problema NP-completo?
+->sim
+
+
+8.7 Encontra o maior clique! em um conjunto de pessoas(um clique, para este exemplo, é um conjunto de
+pessoas em que todo se conhecem). Isso é um problema NP-completo?
+->sim
+
+8.8 Você  está  fazendo  um  mapa  dos  Estados Unidos e precisa colorir estados adjacentes com cores
+diferentes.  Para  isso,  deve  encontrar  o número mínimo de cores para que não existam dois estados 
+adjacentes com a mesma cor. Isso é um problema NP-completo?
+->sim

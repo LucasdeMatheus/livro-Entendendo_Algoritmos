@@ -1,0 +1,9 @@
+Você trabalha para uma empresa de mobílias e  tem  de  enviar os móveis para todo  o país. É
+necessário encher seu caminhão com caixas, e todas  as caixas  são  de  tamanhos  diferentes.
+Você está tentando maximizar o espaço que consegue usar  em  cada  caminhão. Como  escolheria
+as caixas para maximizar o espaço? Proponha uma solução gulosa. Ela lhe dará a Solução ideal?
+
+
+Solução gulosa faria com que a maior caixa que possa ocupa maior espaço seja colocada primeira
+esta solução poderá fazer com que menos caixas possam  ser colocadas, então  não, esta solução 
+não é a ideal.

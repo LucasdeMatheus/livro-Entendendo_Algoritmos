@@ -1,0 +1,26 @@
+Você está viajando para a Europa e tem sete dias para visitar o maior número de lugares.
+Para cada lugar você atribui um valor(o quando deseja ver) e estima quanto tempo demora.
+Como maximizar o  total  de  pontos (passar por todos os lugares que realmente quer ver)
+durante sua estadia? Proponha uma solução gulosa. Ela lhe dará a solução ideal?
+
+Neste caso, sim, por exemplo:
+
+> Estou na França, e gostaria de ir para Paris, Paris tem um  valor  10  para  mim (numa
+escala de 0 a 10) e demoraria uns 3 dias;
+
+> Tambem gostaria de ir no Palácio de Versalhes com um valor de 7 e demoraria 3 dias;
+
+> e tambem gostaria de ir á Catedral de Notre-Dame em Paris com um valor 9, e  demoraria
+3 dias tambem;
+
+na ordem da lista, eu iria para Paris após o Palácio de Versalhes e logo não teria tempo
+para ir  a Catedral. Essa situação deixaria chateado, ja que eu preferia ir a Catedraldo
+que para o Palácio.
+
+Já  na  solução  gulosa, eu  iria  pelo  maior  valor, então eu iria primeiro para Paris
+(valor 10), e logo após para Catedral(valor 9). Essa situação é mais satisfatória.
+
+
+Gabarito:
+Não, diz que não seria ideal. Pelo  exemplo  dado  na  questão,  acredito  que  seja  por
+opinião.
